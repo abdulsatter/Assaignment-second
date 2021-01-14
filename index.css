@@ -1,0 +1,29 @@
+main{
+    background-color: silver;
+}
+
+
+.part-one{
+    border-radius: 30px;
+    padding: 10px;
+}
+h4{
+    color: orange;
+    font-family: italic;
+    
+
+}
+h1{
+    color: hsl(30, 91%, 46%);
+}
+h3{
+    color: navy;
+}
+.footer{
+    color: red;
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+}
